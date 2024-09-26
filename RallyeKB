@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>ERSTE SCHRITTE MIT BRACKETS</title>
+        <meta name="description" content="Ein interaktiver Wegweiser für die ersten Schritte mit Brackets.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body style="background-color: aqua">
+        
+        <div id="Überschrift">
+        <h1 style="color: darkorange">Auf der Jagd nach dem Legendären Star drop</h1>
+        <buton style="background-color: dodgerblue">Los</buton>
+        </div>
+        <div id="Aufgabe1">
+        <p style="color:blue">findet den Standort wo dieses Foto gemacht wurde,Schreibe den Namen des Spielgerät in die Zeile ein.</p>
+    <button style="background-color: firebrick">Tipp:</button>
+        <p>Dort kann man Klettern</p>
+        <img src="Augabe%201.jpeg" width="400px">
+        <button style="background-color: greenyellow">geschafft</button>
+        </div>
+
+        <p>Aufgabe2:</p>       
+
+    
+
+ </body>
+</html>
